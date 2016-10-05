@@ -1,5 +1,7 @@
 <?php
 
+echo 'hello world';
+
 $dsn = 'mysql:host=localhost;dbname=blog';
 $user = 'root';
 $pass = 'neptune320';
